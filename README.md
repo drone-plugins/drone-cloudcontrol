@@ -4,7 +4,7 @@
 [![Coverage Status](https://aircover.co/badges/drone-plugins/drone-cloudcontrol/coverage.svg)](https://aircover.co/drone-plugins/drone-cloudcontrol)
 [![](https://badge.imagelayers.io/plugins/drone-cloudcontrol:latest.svg)](https://imagelayers.io/?images=plugins/drone-cloudcontrol:latest 'Get your own badge on imagelayers.io')
 
-Drone plugin to deploy or update a project on cloudControl
+Drone plugin to deploy or update a project on cloudControl. For the usage information and a listing of the available options please take a look at [the docs](DOCS.md).
 
 ## Binary
 
