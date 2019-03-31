@@ -1,10 +1,10 @@
 # escape=`
-FROM plugins/base:windows-amd64
+FROM plugins/base:windows-1803
 
 LABEL maintainer="Drone.IO Community <drone-dev@googlegroups.com>" `
   org.label-schema.name="Drone Cloudcontrol" `
   org.label-schema.vendor="Drone.IO Community" `
   org.label-schema.schema-version="1.0"
 
-ADD release\drone-cloudcontrol.exe c:\drone-cloudcontrol.exe
-ENTRYPOINT [ "c:\\drone-cloudcontrol.exe" ]
+ADD release/windows/amd64/drone-cloudcontrol.exe C:/bin/drone-cloudcontrol.exe
+ENTRYPOINT [ "C:\\bin\\drone-cloudcontrol.exe" ]

@@ -1,0 +1,16 @@
+github.com/appleboy/drone-git-push v0.0.0-20160731181400-e2e936331fff h1:2lxdc5WLGa6IcgsDz+oRYQN7/9EkXUltK7+xPCyMy+g=
+github.com/appleboy/drone-git-push v0.0.0-20160731181400-e2e936331fff/go.mod h1:GeI+vuXIKkKP+HkZpK2haxblm6l4PWFYNFRzT2M7SU8=
+github.com/drone/drone-go v0.0.0-20160502151758-eaa41f7836a1 h1:2fZ6NZF8Z37FLn5NIElsW3OELMY2xzQ2XPuXJmnAowE=
+github.com/drone/drone-go v0.0.0-20160502151758-eaa41f7836a1/go.mod h1:qVb1k1w9X5jgoGyLtbnfWNnd4XZfAwokxBmiutbpGqw=
+github.com/fern4lvarez/gocclib v0.0.0-20141114145133-4599b39b0fd5 h1:AvJYYmwD3UtsOIgfTeeTfm6xRViIdySltO/24hX6yjo=
+github.com/fern4lvarez/gocclib v0.0.0-20141114145133-4599b39b0fd5/go.mod h1:7QooPH12MZBDpC/wO+CKhFlxtoPdKsO0+zFq3gGY2j0=
+github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/mitchellh/mapstructure v0.0.0-20180220230111-00c29f56e238 h1:+MZW2uvHgN8kYvksEN3f7eFL2wpzk0GxmlFsMybWc7E=
+github.com/mitchellh/mapstructure v0.0.0-20180220230111-00c29f56e238/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
+golang.org/x/net v0.0.0-20180724234803-3673e40ba225/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/net v0.0.0-20181017193950-04a2e542c03f h1:4pRM7zYwpBjCnfA1jRmhItLxYJkaEnsmuAcRtA347DA=
+golang.org/x/net v0.0.0-20181017193950-04a2e542c03f/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/oauth2 v0.0.0-20181017192945-9dcd33a902f4 h1:99CA0JJbUX4ozCnLon680Jc9e0T1i8HCaLVJMwtI8Hc=
+golang.org/x/oauth2 v0.0.0-20181017192945-9dcd33a902f4/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+google.golang.org/appengine v1.2.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7/EB5XEv4=
